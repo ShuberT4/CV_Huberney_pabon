@@ -1,30 +1,39 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Huberney Pabon Becerra
+**Profesión:** Estudiante
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
+- **Teléfono:** +57 304 443 7515
 - **Email:** huberneybecerra@gamil.com
 - **LinkedIn:**https://www.linkedin.com/in/huberney-pabon-becerra-b19b51245/
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### Claro Colombia**** _(04/012022 - 24/06/2022)_
+- Asesor del servicio a atención al cliente
+- Funciones: Ventas y atención al cliente
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### ** Grasco LTDA ** _(05/07/2023 - 04/01/2023)_
+- Operario de planta de alimenetos.
+- Me encargaba de los cuartos fríos y de realizar informes diarios.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### ** Servicio nacional de aprendizaje (SENA)** _(Encurso)_
+- Titulo: Tecnólogo de análisis y desarrollo de software
+## Cursos segundarios
+## pedagogía de paz y participación política habilidades blandas socioemocionales 
+** Corporación volver a la gente ** _(01/06/2022 - 03/06/2022)_
+-Titulo: Habilidades blandas 
+## Curso de servicio de atención al cliente
+** Servicio nacional de aprendizaje (SENA) ** _(01/06/2022 - 03/06/2022)_
+-Servicio de atención al cliente  
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
-
+- **Inteligencia emocional**
+- **Trabajo en equipo**
+- **Comunicación efectiva**
+- **resiliencia**
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
