@@ -6,8 +6,8 @@
 
 ## 📞 Contacto
 - **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **Email:** huberneybecerra@gamil.com
+- **LinkedIn:**https://www.linkedin.com/in/huberney-pabon-becerra-b19b51245/
 
 ## 🏢 Experiencia Laboral
 ### **Empresa XYZ** _(2020 - Actualidad)_
