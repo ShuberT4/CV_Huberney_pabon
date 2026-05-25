@@ -10,7 +10,7 @@
 - **LinkedIn:**https://www.linkedin.com/in/huberney-pabon-becerra-b19b51245/
 
 ## 🏢 Experiencia Laboral
-### Claro Colombia**** _(04/012022 - 24/06/2022)_
+### Claro Colombia _(04/012022 - 24/06/2022)_
 - Asesor del servicio a atención al cliente
 - Funciones: Ventas y atención al cliente
 
