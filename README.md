@@ -1,77 +1,78 @@
-# CV_Example
-# Hoja de Vida
+<div align="center">
 
-## Huberney Pabon Becerra
-Profesión: Analistas y desarrolladores de software 
-<p>Desarrollador de Software</p>
+# 👨‍💻 Huberney Pabon Becerra
 
-## 📞 Contacto
-- **Teléfono:** +57 304 443 7515
-- **Email:** huberneybecerra@gamil.com
-- **LinkedIn:**https://www.linkedin.com/in/huberney-pabon-becerra-b19b51245/
+### Tecnólogo en Análisis y Desarrollo de Software
 
-## 🏢 Experiencia Laboral
-### Claro Colombia _(04/012022 - 24/06/2022)_
-- Asesor del servicio a atención al cliente
-- Funciones: Ventas y atención al cliente
-
-### Grasco LTDA _(05/07/2023 - 04/01/2023)_
-- Operario de planta de alimenetos.
-- Me encargaba de los cuartos fríos y de realizar informes diarios.
-
-## 🎓 Educación
-###  Servicio nacional de aprendizaje (SENA _(Encurso)_
-- Titulo: Tecnólogo de análisis y desarrollo de software
-
-## 💡 Habilidades
-- **Inteligencia emocional**
-- **Trabajo en equipo**
-- **Comunicación efectiva**
-- **resiliencia**
----
-
-## 🎨 Formatos y Fuentes Disponibles
-
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
-
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
-
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
+<p>
+Soy una persona curiosa por el desarrollo de software, en constante aprendizaje continuo y la creación de soluciones tecnológicas.
+</p>
+</div>
 
 ---
 
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
+# 🚀 Sobre mí
+
+Soy estudiante de Análisis y Desarrollo de Software en el SENA, con interés en el desarrollo web, programación orientada a objetos, bases de datos y programación backend. Soy alguien que se esfuerza por ser responsable tener la capacidad de adaptación trabajar en equipo.
+
+---
+
+# 📫 Contacto
+
+📧 Email: huberneybecerra@gmail.com <br>
+💼 LinkedIn: https://www.linkedin.com/in/huberney-pabon-becerra-b19b51245/
+---
+
+# 💼 Experiencia Laboral
+
+## 📌 Claro Colombia  
+📅 04/01/2023 - 24/06/2023
+
+**Cargo:** Asesor de atención al cliente
+
+### Funciones:
+- Atención y soporte a clientes.
+- Gestión de ventas.
+- Resolución de problemas y consultas.
+
+---
+
+## 📌 Grasco LTDA  
+📅 05/07/2022 - 04/01/2023
+
+**Cargo:** Operario de planta de alimentos
+
+### Funciones:
+- Empaque de productos.
+- Control y almacenamiento del producto final.
+- Apoyo en procesos de producción.
+
+---
+
+# 🎓 Educación
+
+## 🏫 Servicio Nacional de Aprendizaje (SENA)
+
+📚 Tecnólogo en Análisis y Desarrollo de Software  
+📅 En formación
+
+---
+
+# 💡 Habilidades
+
+- 🤝 Trabajo en equipo
+- 🧠 Inteligencia emocional
+- 📢 Comunicación efectiva
+- 🔥 Resiliencia
+- 🚀 Aprendizaje rápido
+- 📌 Responsabilidad
+
+---
+
+# 📊 Estadísticas de GitHub
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
+
 
