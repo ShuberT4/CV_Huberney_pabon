@@ -2,7 +2,8 @@
 # Hoja de Vida
 
 ## Huberney Pabon Becerra
-**Profesión:** Estudiante
+Profesión: Analistas y desarrolladores de software 
+<p>Desarrollador de Software</p>
 
 ## 📞 Contacto
 - **Teléfono:** +57 304 443 7515
@@ -14,20 +15,13 @@
 - Asesor del servicio a atención al cliente
 - Funciones: Ventas y atención al cliente
 
-### ** Grasco LTDA ** _(05/07/2023 - 04/01/2023)_
+### Grasco LTDA _(05/07/2023 - 04/01/2023)_
 - Operario de planta de alimenetos.
 - Me encargaba de los cuartos fríos y de realizar informes diarios.
 
 ## 🎓 Educación
-### ** Servicio nacional de aprendizaje (SENA)** _(Encurso)_
+###  Servicio nacional de aprendizaje (SENA _(Encurso)_
 - Titulo: Tecnólogo de análisis y desarrollo de software
-## Cursos segundarios
-## pedagogía de paz y participación política habilidades blandas socioemocionales 
-** Corporación volver a la gente ** _(01/06/2022 - 03/06/2022)_
--Titulo: Habilidades blandas 
-## Curso de servicio de atención al cliente
-** Servicio nacional de aprendizaje (SENA) ** _(01/06/2022 - 03/06/2022)_
--Servicio de atención al cliente  
 
 ## 💡 Habilidades
 - **Inteligencia emocional**
