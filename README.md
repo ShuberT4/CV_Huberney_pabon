@@ -2,7 +2,7 @@
 
 # 👨‍💻 Huberney Pabon Becerra
 
-### Tecnólogo en Análisis y Desarrollo de Software
+### Analistas y desarrollador de software
 
 <p>
 Soy una persona curiosa por el desarrollo de software, en constante aprendizaje continuo y la creación de soluciones tecnológicas.
@@ -68,11 +68,4 @@ Soy estudiante de Análisis y Desarrollo de Software en el SENA, con interés en
 - 📌 Responsabilidad
 
 ---
-
-# 📊 Estadísticas de GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight)
-
 
